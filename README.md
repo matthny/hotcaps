@@ -1,5 +1,15 @@
-AutoHotKey Script which uses CapsLock as a hotkey to add:
+AutoHotKey Script which uses CapsLock as a hotkey to add to your home row:
 
-1) Arrows keys + Home & End for left hand: WASD + QE
-2) Arrows keys + Home & End for right hand: IJKL + UO
-3) Volume Down + Volume Up: 1 + 2
+1)
+Arrows + Home, End: ijkl + uo
+Control, Shift: f, d
+Delete, Backspace, Enter: t, g, b
+
+2) 
+Volume controls up, down: 1, 2
+
+3) 
+Mini arrows for only left hand usage: wasz
+
+
+
