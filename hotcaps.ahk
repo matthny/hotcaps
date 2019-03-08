@@ -12,16 +12,18 @@ CapsLock & o::End
 
 ; LEFT HAND
 CapsLock & a::Left
-CapsLock & s::Down
-CapsLock & d::Right
+CapsLock & z::Down
+CapsLock & s::Right
 CapsLock & w::Up
-
-CapsLock & q::Home
-CapsLock & e::End
 
 CapsLock & g::BackSpace
 CapsLock & t::Delete
 CapsLock & b::Enter
+
+CapsLock & f::Ctrl
+CapsLock & d::Shift
+
+
 
 ;VOLUME CONTROLS DOWN
 CapsLock & 1::
