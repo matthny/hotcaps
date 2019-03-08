@@ -12,8 +12,8 @@ CapsLock & o::End
 
 ; LEFT HAND
 CapsLock & a::Left
-CapsLock & z::Down
-CapsLock & s::Right
+CapsLock & s::Down
+CapsLock & d::Right
 CapsLock & w::Up
 
 CapsLock & g::BackSpace
@@ -21,7 +21,7 @@ CapsLock & t::Delete
 CapsLock & b::Enter
 
 CapsLock & f::Ctrl
-CapsLock & d::Shift
+CapsLock & e::Shift
 
 
 
