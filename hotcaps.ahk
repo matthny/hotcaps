@@ -23,7 +23,9 @@ CapsLock & b::Enter
 CapsLock & f::Ctrl
 CapsLock & e::Shift
 
-
+CapsLock & c::^c
+CapsLock & v::^v
+CapsLock & x::^x
 
 ;VOLUME CONTROLS DOWN
 CapsLock & 1::

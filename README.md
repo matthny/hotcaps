@@ -1,15 +1,6 @@
-AutoHotKey Script which uses CapsLock as a hotkey to add to your home row:  
+AutoHotKey script for my personal use. It is public for easy sync with my computer at work, because I tweak it a bit from time to time.
 
-1) 
-Arrows + Home, End: ijkl + uo  
-Control, Shift: f, e  
-Delete, Backspace, Enter: t, g, b  
-
-2)  
-Volume controls up, down: 1, 2  
-
-3)   
-Arrows for only left hand usage: wasd  
+Mostly CapsLock as hotkey and arrows in home row.  
 
 
 
