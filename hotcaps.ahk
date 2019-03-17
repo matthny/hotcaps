@@ -1,10 +1,6 @@
 #SingleInstance, Force
 SetCapsLockState, AlwaysOff
 
-LAlt::LCtrl 
-LCtrl::LAlt   
-
-
 ; RIGHT HAND
 CapsLock & j::Left
 CapsLock & k::Down
@@ -24,8 +20,8 @@ CapsLock & g::BackSpace
 CapsLock & t::Delete
 CapsLock & b::Enter
 
-CapsLock & e::LAlt
-CapsLock & f::Shift
+CapsLock & e::LShift
+CapsLock & f::LControl
 
 ;VOLUME CONTROLS DOWN
 CapsLock & 1::
