@@ -1,26 +1,6 @@
 #SingleInstance, Force
 SetCapsLockState, AlwaysOff
 
-; Ctrl Alt swap
-LAlt::LCtrl
-LCtrl::LAlt
-
-; Suspend ON
-CapsLock & 9::
-	Suspend, Off
-    SplashTextOn, 100, 40, AHK, Running
-    Sleep, 1000
-    SplashTextOff
-return
-
-; Suspend OFF
-CapsLock & 0::
-	Suspend, On
-    SplashTextOn, 100, 40, AHK, STOP
-    Sleep, 1000
-    SplashTextOff
-return
-
 ; RIGHT HAND
 CapsLock & j::Left
 CapsLock & k::Down
@@ -28,7 +8,7 @@ CapsLock & l::Right
 CapsLock & i::Up
 
 CapsLock & u::Home
-CapsLock & o::End
+CapsLock & o::End 
 
 ; LEFT HAND
 CapsLock & a::Left
@@ -36,9 +16,12 @@ CapsLock & s::Down
 CapsLock & d::Right
 CapsLock & w::Up
 
+CapsLock & q::Home
+CapsLock & e::End 
+
 CapsLock & g::BackSpace
 CapsLock & t::Delete
-CapsLock & b::Enter
+CapsLock & b::Enter 
 
 ;VOLUME CONTROLS DOWN
 CapsLock & 1::
