@@ -3,25 +3,9 @@ SetCapsLockState, AlwaysOff
 
 ; RIGHT HAND
 CapsLock & i::Up
-CapsLock & j::Left
 CapsLock & k::Down
-CapsLock & l::Right
-
-CapsLock & u::Home
-CapsLock & o::End 
-
-; LEFT HAND
-CapsLock & w::Up
-CapsLock & a::Left
-CapsLock & s::Down
-CapsLock & d::Right
-
-CapsLock & q::Home
-CapsLock & e::End 
-
-CapsLock & t::Delete
-CapsLock & g::BackSpace
-CapsLock & b::Enter 
+CapsLock & j::Home
+CapsLock & l::End 
 
 ;VOLUME CONTROLS DOWN
 CapsLock & 1::
