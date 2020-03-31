@@ -1,6 +1,10 @@
-AutoHotKey script for my personal use. It is public for easy sync with my computer at work, because I tweak it a bit from time to time.
+AutoHotKey script for my personal use.
 
-Mostly CapsLock as hotkey and arrows in home row.  
+Additional keyboard layer:
+- CapsLock as hotkey
+- up/down - i/k 
+- home/end - j/l  
+- volume down/up - 1/2
 
 
 
